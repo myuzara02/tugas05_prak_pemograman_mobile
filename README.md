@@ -2,8 +2,7 @@
 
 A new Flutter project.
 
-Miftah Yuzar A
-2006035 
+Miftah Yuzar A (2006035) 
 
 ## Getting Started
 
